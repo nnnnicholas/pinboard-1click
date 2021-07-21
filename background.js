@@ -29,7 +29,6 @@ async function post(url, title) {
                 console.log('error: '); console.error(error)
             }
         })
-    // .then(data => { console.log(data) })
 }
 
 chrome.action.onClicked.addListener(addPin);
