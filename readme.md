@@ -1,4 +1,7 @@
 # 1-Click Pinboard Read Later extension
+
+![Logo](/bitmap.png)
+
 I created this pinboard Read Later extension because I don't trust any of the ones in the extension stores at present and Pinboard no longer provides a basic pinner.
 
 ## How it works
