@@ -11,7 +11,7 @@
   "host_permissions": [
     "https://api.pinboard.in/"
   ],
-  "icons": { "16": "icon1.png"},
+  "icons": { "16": "blue.png"},
   "action": {},
   "manifest_version": 3
 }
