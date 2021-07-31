@@ -20,7 +20,6 @@ Written for Chrome Extension Manifest V3.
 
 ## Next steps
 I may never touch this repo again, but if I do, I would like to make the following update(s):
-- Extension icon should give visual confirmation when current tab is successfully saved
 - Make portable to Firefox and Safari
 - Add settings panel to input APITOKEN more comfortably
 - Publish to Extension stores
